@@ -1,20 +1,20 @@
-## About
+# About-
 足掛け3年の独学エンジニア、自分でWebページを作りたくて、試行錯誤の連続  
 主にバックエンドの方面の仕事をこなす、ただ独立志向が強く、フロントエンドも勉強中
 
 脳出血により一度生死を彷徨い、現在リハビリ最中であるが新しい人生にトライ中  
 47歳で社会経験が豊富な所、長男、また飲食での店長経験、自分で事業をしていた経験を活かして、多方面でトータルプロデュースをする
 
-### Profile
+## Profile
 - Masa Grandesu age 47
 - toda and shibuya
-### Skills
+## Skills
 - OS (Windows,Ubuntu)
 - Languages (JavaScript,php)
 - Engine,Frameworks (Node.js, Express)
 - Tool,MiddleWare (Git, PostgesSQL)
-### Works
-### Contact
+## Works
+## Contact
 [Twitter](http:
 ### Mail
 ### History
