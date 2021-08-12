@@ -2,6 +2,8 @@
 
 https://photos.app.goo.gl/B1HBRYRwjobvvHom7
 
+<a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/grande_su?ref_src=twsrc%5Etfw">Tweets by grande_su</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # About-
 足掛け3年の独学エンジニア、自分でWebページを作りたくて、試行錯誤の連続  
 主にバックエンドの方面の仕事をこなす、ただ独立志向が強く、フロントエンドも勉強中
